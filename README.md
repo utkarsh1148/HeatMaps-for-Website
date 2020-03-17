@@ -2,8 +2,7 @@
 
 Free web application allow webadministrators to generate useful statiscts based on how users navigate in their websites in real time.
 
-[Google Group](https://groups.google.com/forum/?#!forum/we3c_tracker)
-[Contributors](http://github.com/stykiaz/we3c_tracker/contributors)
+
 
 ### Examples ###
 
