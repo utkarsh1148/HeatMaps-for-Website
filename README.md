@@ -1,5 +1,4 @@
-
-#### Realtime Mouse Tracking ####
+### Realtime Mouse Tracking ###
 
 Free web application allow webadministrators to generate useful statiscts based on how users navigate in their websites in real time.
 
